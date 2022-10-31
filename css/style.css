@@ -130,6 +130,10 @@ footer {
               height 0.2s;
   
 }
+
+footer p a {
+  color: grey;
+}
 /* end of footer */
 
 
